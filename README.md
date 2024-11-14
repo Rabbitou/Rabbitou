@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Younes</h1>
 <h3 align="center">A passionate Full Stack Developer from Morocco</h3>
 
-- 🔭 I’m currently working on [aninfo](https://aninfo-rabbitou.vercel.app/)
-
 - 📫 How to reach me **y.chennaf98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
